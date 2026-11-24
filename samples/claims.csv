@@ -1,0 +1,4 @@
+claim,product,formula,study,channel,valid_to,state
+C1,P1,F1,R1,web,2026-07-01,expired
+C2,P1,F2,R3,web,,approved
+C3,P2,F1,R1,live,,review

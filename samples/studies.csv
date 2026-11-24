@@ -1,0 +1,4 @@
+study,material,concentration,condition,result,version
+R1,M-A,2%,lab-1,positive,1
+R2,M-B,1%,lab-2,mixed,1
+R3,M-A,2%,lab-1,replicated,2
