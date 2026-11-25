@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "evidence-governance"
+version = "1.0.0"
+description = "研发证据、合规审批、配方版本与传播页面复核系统（标准库实现）"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+evidence-governance = "evidence_governance.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["evidence_governance*"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

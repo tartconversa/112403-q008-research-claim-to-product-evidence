@@ -1,0 +1,5 @@
+publication,asset,kind,name,location,claim,product,formula,channel,published_on,status,ended_on,campaign,campaign_started,campaign_ended
+U1,WEB-P1-OLD,page,P1 旧版原料证据页,/products/P1/legacy,C1,P1,F1,web,2026-02-01,active,,,
+U2,WEB-P1-NEW,page,P1 新版配方页,/products/P1,C2,P1,F2,web,2026-07-02,active,,,
+U3,MAT-P2-LIVE,material,P2 直播手卡,materials/P2-live-card,C3,P2,F1,live,2026-04-01,active,,,
+U4,WEB-SPRING-2026,page,2026 春季活动归档页,/campaigns/spring-2026,C1,P1,F1,web,2026-03-01,ended,2026-05-31,CAMP-SPRING,2026-03-01,2026-05-31
